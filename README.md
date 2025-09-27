@@ -1,4 +1,4 @@
-# AI-Flight-Delay-Price-Prediction
+# AI-Flight-Delay-Predictor
 
 ## Description:
 
