@@ -33,7 +33,7 @@ This project leverages machine learning techniques to predict flight delays base
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Sample Outputs
+## Sample Snapshots
 
 <img width="710" height="548" alt="image" src="https://github.com/user-attachments/assets/ce50dd7e-b9f1-49c6-903d-25b42a481bbd" />
 
@@ -42,3 +42,4 @@ This project leverages machine learning techniques to predict flight delays base
 ## Outcome / Use Case: 
 
 Provides actionable insights for airlines and passengers to anticipate flight delays. Also showcases skills in AI, business analytics, and user-facing dashboard development
+Uses Streamlit to give real time flight fare based on delays or other unaddressed issues. 
