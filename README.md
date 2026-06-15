@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
 
-✈️FlightSense_AI-Powered Flight Delay Prediction
+*✈️FlightSense_AI-Powered Flight Delay Prediction
 
 **End-to-end machine learning pipeline that predicts flight delays in real time, turning raw aviation data into actionable intelligence for airlines and passengers.**
 
